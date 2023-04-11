@@ -9,5 +9,6 @@ print(answer)
 """
 
 a = input("enter an integer")
-answer = a + 3
+A=int(a)
+answer = A + 3
 print(answer)

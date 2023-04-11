@@ -12,3 +12,6 @@ x = 5
 
 if x == 3 or 4:
     print("x is either a 3 or a 4")
+
+else: 
+    print("the number is not a 3 or a 4")
