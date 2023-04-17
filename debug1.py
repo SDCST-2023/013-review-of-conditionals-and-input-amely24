@@ -9,4 +9,5 @@ data input(message)
 """
 
 message="Input a number"
+message="Input a number:"
 data=input(message)
